@@ -24,6 +24,7 @@ public class mainchar : MonoBehaviour
     {
         rb.velocity = Vector2.right * Input.GetAxis("Horizontal") * speed + Vector2.up * rb.velocity.y;
 
+        //flip the character
         if(Input.GetAxis("Horizontal") != 0)
             {
             int direction = 1;
