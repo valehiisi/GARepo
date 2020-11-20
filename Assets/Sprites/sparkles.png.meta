@@ -1,28 +1,19 @@
 fileFormatVersion: 2
-guid: 4271e37e981797a4ca7baa39514f6102
+guid: 98961dbb1ea148541bd3542d02ab6001
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3405980894003560942
-    second: goopmove_0
+      213: -2622811594703886349
+    second: sparkles_0
   - first:
-      213: -7485138421893820768
-    second: goopmove_1
+      213: -7192408557340453415
+    second: sparkles_1
   - first:
-      213: -1338327714372861319
-    second: goopmove_2
+      213: -316471766119948998
+    second: sparkles_2
   - first:
-      213: 8910468526402049731
-    second: goopmove_3
-  - first:
-      213: -1906395864156242661
-    second: goopmove_4
-  - first:
-      213: 5509592957889241243
-    second: goopmove_5
-  - first:
-      213: -5687808721526112188
-    second: goopmove_6
+      213: -4911555181841048556
+    second: sparkles_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -67,7 +58,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -110,148 +101,85 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: goopmove_0
+      name: sparkles_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 32
+        y: 0
         width: 32
         height: 32
-      alignment: 9
-      pivot: {x: 0.6, y: 0.1}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 21e762d2c668bb0d0800000000000000
-      internalID: -3405980894003560942
+      spriteID: 3f726e830c6e99bd0800000000000000
+      internalID: -2622811594703886349
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goopmove_1
+      name: sparkles_1
       rect:
         serializedVersion: 2
         x: 32
-        y: 32
+        y: 0
         width: 32
         height: 32
-      alignment: 9
-      pivot: {x: 0.6, y: 0.1}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ae046463427f1890800000000000000
-      internalID: -7485138421893820768
+      spriteID: 9d51e3c268e6f2c90800000000000000
+      internalID: -7192408557340453415
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goopmove_2
+      name: sparkles_2
       rect:
         serializedVersion: 2
         x: 64
-        y: 32
+        y: 0
         width: 32
         height: 32
-      alignment: 9
-      pivot: {x: 0.6, y: 0.1}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 972ceb7d80e4d6de0800000000000000
-      internalID: -1338327714372861319
+      spriteID: a3ddafefa9aab9bf0800000000000000
+      internalID: -316471766119948998
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: goopmove_3
+      name: sparkles_3
       rect:
         serializedVersion: 2
         x: 96
-        y: 32
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.6, y: 0.1}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3c61e724ae758ab70800000000000000
-      internalID: 8910468526402049731
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: goopmove_4
-      rect:
-        serializedVersion: 2
-        x: 0
         y: 0
         width: 32
         height: 32
-      alignment: 9
-      pivot: {x: 0.6, y: 0.1}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b1d71b3ef0f1b85e0800000000000000
-      internalID: -1906395864156242661
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: goopmove_5
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 0
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.6, y: 0.1}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b906bf7aa91067c40800000000000000
-      internalID: 5509592957889241243
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: goopmove_6
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.6, y: 0.1}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 44041136a18d011b0800000000000000
-      internalID: -5687808721526112188
+      spriteID: 41c92aba596a6dbb0800000000000000
+      internalID: -4911555181841048556
       vertices: []
       indices: 
       edges: []
@@ -259,7 +187,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 7186553684d2ad14ea01b39d7f2111bd
+    spriteID: cc5519f0ff170d34bbef5ef03749f491
     internalID: 0
     vertices: []
     indices: 
